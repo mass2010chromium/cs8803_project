@@ -1,0 +1,9 @@
+[submodule "baselines"]
+	path = baselines
+	url = https://github.com/mass2010chromium/baselines
+[submodule "pydart2"]
+	path = pydart2
+	url = https://github.com/mass2010chromium/pydart2
+[submodule "policy_transfer"]
+	path = policy_transfer
+	url = https://github.com/mass2010chromium/policy_transfer.git
