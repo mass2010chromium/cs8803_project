@@ -6,4 +6,4 @@
 	url = https://github.com/mass2010chromium/pydart2
 [submodule "policy_transfer"]
 	path = policy_transfer
-	url = https://github.com/mass2010chromium/policy_transfer.git
+	url = https://github.com/varunm99/uposi_policy_transfer.git

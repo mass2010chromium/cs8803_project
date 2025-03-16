@@ -1,4 +1,7 @@
-# CS8803 DRL Project
+# CS8803 DRL Project - Group 26
+
+This repo contains modifications to the implementation of "Preparing for the Unknown: Learning a Universal Policy with Online System Identification." 
+Due to the age of this project, we have prepared specialized installation instructions to ensure that all necessary dependency versions are compatible with one another. 
 
 ## Installation
 
@@ -25,3 +28,6 @@ Build packages.
 - `cd policy_transfer; pip install -e .`
 
 All done! Try running examples as in `policy_transfer/README.md`.
+
+## Running
+
