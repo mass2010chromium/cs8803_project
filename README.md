@@ -31,3 +31,18 @@ All done! Try running examples as in `policy_transfer/README.md`.
 
 ## Running
 
+Training Hopper policy and OSI network using PPO and supervised learning:
+```
+cd policy_transfer
+./examples/uposi_hopper_2d_train.sh
+```
+Train OSI network only:
+```
+cd policy_transfer
+./examples/osi_hopper_2d_train.sh
+```
+Run hopper with live animation:
+```
+cd policy_transfer
+./examples/osi_hopper_2d_test.sh
+```
