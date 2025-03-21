@@ -1,2 +1,5 @@
 env
 .ipynb_checkpoints
+
+MUJOCO_LOG.TXT
+notebook/runs/
